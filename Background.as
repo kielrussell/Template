@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;	import flash.events.Event;//		public class Background extends MovieClip{				public function Background() {						this.x = 0;			this.y = 0;		}					}	}
